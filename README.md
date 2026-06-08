@@ -36,11 +36,11 @@ For a full report, visit: https://drive.google.com/file/d/1ZbjQq2LTt_mNnOsfnK3xH
   - Optimization for scalability and training efficiency on large datasets
 
 ## Key Findings & Insights
-- Historical performance and recent interactions are strong predictors of future outcomes
-- Learning progression is non-linear and varies significantly across students
-- Temporal models outperform static models in predicting mastery
-- Engagement frequency and consistency strongly correlate with success
-- Certain skills exhibit higher learning decay, requiring targeted reinforcement
+- Historical performance and recent interactions are strong predictors of future outcomes.
+- Learning progression is non-linear and varies significantly across students.
+- Temporal models outperform static models in predicting mastery. (e.g., tracking how a student learns over time is much better at predicting if they truly understand a topic than just looking at their final test score)
+- Engagement frequency and consistency strongly correlate with success.
+- Certain skills exhibit higher learning decay, requiring more frequent review.
 
 ## Business & Educational Impact
 - Enables early identification of at-risk students
